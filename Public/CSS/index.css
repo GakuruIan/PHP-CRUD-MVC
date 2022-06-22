@@ -1,0 +1,52 @@
+.wrapper{
+    height: 100%;
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.form_wrapper{
+    height: 100%;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inline{
+    display: flex;
+    width: 100%;
+}
+.inline .input{
+    width: 70%;
+    margin-right: 4px;
+}
+.inline .search{
+    width: 140px;
+    height: 40px;
+    margin: 0px 8px;
+}
+#mybtn{
+    display: block;
+    width: 100%;
+}
+.img{
+    width:90px;
+    margin:0px 4px;
+}
+form
+{
+    display:inline-block;
+}
+.update-img
+{
+    height: 120px;
+    margin:4px 0px;
+}
+.thead-dark{
+    background-color: #212529;
+    color:#fff;
+}
+.title{
+    text-align: center;
+}
